@@ -1,1 +1,1 @@
-First MVP Avalible version for the preview of the LogApp apk
+First MVP Availible version for the preview of the LogApp apk
